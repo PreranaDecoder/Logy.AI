@@ -68,14 +68,14 @@ function Footer() {
                       Terms and conditions
                     </Link>
                   </li>
-                  {/* <li>
+                  <li>
                     <a
-                      className="inline-block text-3xl text-gray-700 hover:text-blue-500 font-black tracking-tight"
-                      href="#"
+                      className="inline-block text-xl text-gray-500 hover:text-blue-500 font-semibold tracking-tight"
+                      href="https://docs.google.com/document/u/0/d/e/2PACX-1vQJDkbwSDLAvy1ea7LcDJIM0TCw-v9e_Jbpu5ah79BR7goKU0hXhf-rhVXLusABoCjlYj6vApGPQ8mZ/pub?pli=1"
                     >
                       Privacy Policy
                     </a>
-                  </li> */}
+                  </li>
                 </ul>
               </div>
               <div className="w-full md:w-1/3 p-8">
